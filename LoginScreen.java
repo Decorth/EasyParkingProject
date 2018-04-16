@@ -11,7 +11,7 @@ import java.awt.*;
 public class LoginScreen extends JFrame{
 
   public void LoginScreen(){
-    this.JFrame("EasyParking System");
+    this.JFrame("EasyParking System");  // NEED TO FIX THIS
     BuildLoginScreenTopPanel();
     BuildLoginScreenMiddlePanel();
     BuildLoginScreenBottomPanel();
