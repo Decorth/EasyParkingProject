@@ -10,6 +10,13 @@ import java.awt.*;
 
 public class LoginScreen extends JFrame{
 
+  /**
+   * Creates a JFrame with title "EasyParking System"
+   */
+  public LoginScreen() {
+    super("EasyParking System");
+  }
+  
   public void LoginScreen(){
     this.JFrame("EasyParking System");  // NEED TO FIX THIS
     BuildLoginScreenTopPanel();
