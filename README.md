@@ -5,4 +5,4 @@ This is a university project for our degree. Please don't make any pull requests
 
 Thanks.
 
-Note: any contributions made to this that aren't from fellow group members will be ignored and deleted. This is to comply with the univerisity's policy on plagerism and illegal collaboration.
+Note: any contributions made to this that aren't from fellow group members will be ignored and closed. This is to comply with the univerisity's policy on plagerism and illegal collaboration.
